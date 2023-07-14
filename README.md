@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Charity Arthur</h1>
 <h3 align="center">A passionate Data Analyst in the United Kingdom</h3>
-<img align="right" alt="Coding" width="400" src="https://steamcommunity.com/sharedfiles/filedetails/?id=2217383700")
+<img align="right" alt="Coding" width="400" src="https://wallpapercave.com/wp/wp9619655.jpg")
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chichiprojecthub&label=Profile%20views&color=0e75b6&style=flat" alt="chichiprojecthub" /> </p>
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **chiarthur.chi@gmail.com**
 
-- ⚡ Fun fact **I think I am funnier than how my face looks like upon first meeting**
+- ⚡ Fun fact **I think I am funnier than how my face appears to be**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
